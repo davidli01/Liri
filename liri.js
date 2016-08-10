@@ -1,3 +1,6 @@
+var twitter = require();
+var spotify = require();
+var request = require();
 var keys = require('./twitterKeys');
 
 
